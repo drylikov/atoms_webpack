@@ -1,0 +1,3 @@
+{
+  "extends": ["jason", "4catalyzer-typescript"]
+}
